@@ -13,4 +13,4 @@
 タスクの追加・進行・完了時は、プロジェクトの更新も忘れないようにしてください。
 
 
-https://github.com/realfareast/lp-practice-static/projects/1
+[https://github.com/realfareast/lp-practice-static/projects/1](https://github.com/users/realfareast/projects/3)https://github.com/users/realfareast/projects/3
